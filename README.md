@@ -1,4 +1,4 @@
-# Skiplists
+# Skiplist
 
 ## General Project Information
 This project is a genericized skip list collection data structure in Java.
